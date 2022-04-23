@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\DictionaryChallange\DictionaryChallange\bin\Debug\DictionaryChallange.exe.config
+C:\Users\sande\source\repos\DictionaryChallange\DictionaryChallange\bin\Debug\DictionaryChallange.exe
+C:\Users\sande\source\repos\DictionaryChallange\DictionaryChallange\bin\Debug\DictionaryChallange.pdb
+C:\Users\sande\source\repos\DictionaryChallange\DictionaryChallange\obj\Debug\DictionaryChallange.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\DictionaryChallange\DictionaryChallange\obj\Debug\DictionaryChallange.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\DictionaryChallange\DictionaryChallange\obj\Debug\DictionaryChallange.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\DictionaryChallange\DictionaryChallange\obj\Debug\DictionaryChallange.exe
+C:\Users\sande\source\repos\DictionaryChallange\DictionaryChallange\obj\Debug\DictionaryChallange.pdb
